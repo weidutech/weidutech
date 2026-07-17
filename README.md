@@ -30,7 +30,7 @@
 - 🔭 当前方向：**AI 驱动的漏洞挖掘、安全平台、Agent 安全评测与红队**
 - 🧠 研究兴趣：LLM 越狱 · Agent 执行层安全 · 涌现性不对齐 · RAG / 多模态安全
 - 🛠️ 擅长把攻防研究做成**可规模化的安全工程**（评测、自动化、闭环运营）
-- 🚀 业余在做 AI 产品与个人 IP（LoveCue、LifeOS、[Kelvin聊AI落地](https://github.com/weidutech)）
+- 🚀 业余在做 AI 产品与个人 IP（LoveCue、[Kelvin聊AI落地](https://github.com/weidutech)）
 - 🌏 Base 中国 · 个人站点方向 [kelvinsu.com](https://kelvinsu.com) / [ai.kelvinsu.com](https://aikelvinsucom.vercel.app)
 
 ---
@@ -69,7 +69,6 @@
 | **[ai.kelvinsu.com](https://github.com/weidutech/ai.kelvinsu.com)** | 个人 AI / 知识站点 · [在线](https://aikelvinsucom.vercel.app) |
 | **[weidutech.github.io](https://github.com/weidutech/weidutech.github.io)** | 个人主页 / Pages |
 | **LoveCue** | AI 聊天分析与话术建议（商业化产品） |
-| **LifeOS** | 四象限任务系统 · [life.kelvinsu.com](https://life.kelvinsu.com) |
 
 ---
 
