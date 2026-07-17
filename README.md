@@ -11,7 +11,7 @@
   <p>
     <strong>AI Security Engineer</strong> · Ant Group<br/>
     聚焦 <strong>大模型安全 / Agent 攻防 / 攻防自动化</strong><br/>
-    <em>NUS 信息安全硕士 · 四川大学网络空间安全学士 · 0x401 CTF 创始人</em>
+    <em>NUS 信息安全硕士 · 0x401 CTF 创始人</em>
   </p>
 
   <p>
@@ -75,7 +75,6 @@
 ### 🎓 Education & CTF
 
 - 🎓 **新加坡国立大学 (NUS)** · 信息安全硕士  
-- 🎓 **四川大学** · 网络空间安全学士  
 - 🚩 **0x401** CTF 战队创始人兼前队长 · [0x401.com](https://0x401.com) · 带队成长为国内前 20 战队  
 
 **部分竞赛：**
