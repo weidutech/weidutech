@@ -6,10 +6,10 @@
 
 <div align="center">
 
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3200&pause=900&color=58A6FF&center=true&vCenter=true&width=720&lines=Hi%2C+I'm+Kelvin+Su+%2F+%E5%AE%BF%E6%82%A6%E8%8C%A8;AI+Security+%C2%B7+Agent+Red+Team;A+Geek's+space" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3200&pause=900&color=58A6FF&center=true&vCenter=true&width=720&lines=Hi%2C+I'm+Kelvin+Su;AI+Security+%C2%B7+Agent+Red+Team;A+Geek's+space" alt="Typing SVG" />
 
   <p>
-    <strong>AI Security Engineer</strong> · 蚂蚁集团<br/>
+    <strong>AI Security Engineer</strong> · Ant Group<br/>
     聚焦 <strong>大模型安全 / Agent 攻防 / 攻防自动化</strong><br/>
     <em>NUS 信息安全硕士 · 四川大学网络空间安全学士 · 0x401 CTF 创始人</em>
   </p>
@@ -48,13 +48,13 @@
 
 ### 💼 Work Highlights（公开摘要）
 
-在 **蚂蚁集团** 负责 AI 驱动的安全工程落地，包括：
+在 **Ant Group** 负责 AI 驱动的安全工程落地，包括：
 
 - **AI-SDL 漏洞挖掘**：多智能体接入上线前/后、接口变更与安全审批；推动传统 SDL 的 AI 自动化闭环
 - **安全 AI 平台**：面向大规模资产，统一任务分发 / 执行 / 决策 / 评测
 - **运行时防御**：AI Agent 能力融入 RASP 告警研判与策略运营
 - **Agent 红队**：自研 **AgentAegis**，覆盖 Web / 钉钉 / 安卓等多形态 Agent 动态测试
-- **荣誉**：蚂蚁集团 **T-Star** 个人奖
+- **荣誉**：Ant Group **T-Star** 个人奖
 
 另有研究沉淀：*VulSolver*（LLM + 约束求解漏洞检测）、*RASP Plus*（LLM 增强运行时防护）相关议题 / 专利方向。
 
@@ -85,36 +85,6 @@
 - 全国大学生信息安全竞赛 CTF 总决赛一等奖  
 - 强网杯全国人工智能挑战赛第二名  
 - 强网杯全国网络安全竞赛三等奖  
-
----
-
-### 🛠 Stack
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,linux,bash,docker,ts,js,react,nodejs,git,github,postgres,firebase,vercel&perline=13" alt="Tech stack"/>
-</p>
-
-<p align="center">
-  <code>LLM / Agent</code>
-  <code>Red Team</code>
-  <code>SAST · DAST · RASP</code>
-  <code>Prompt · RAG · Eval</code>
-  <code>Taint Analysis</code>
-  <code>Burp · Nmap · MSF</code>
-</p>
-
----
-
-### 📊 GitHub Stats
-
-<div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=weidutech&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub stats"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=weidutech&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top languages"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=weidutech&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
-</div>
 
 ---
 
