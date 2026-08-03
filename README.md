@@ -23,7 +23,7 @@
 
 **Selected work** — 自研 [AgentAegis](https://github.com/weidutech/agentaegis)（多形态 Agent 动态红队）· *VulSolver* / *RASP Plus* 相关议题与专利方向
 
-**Also** — [wDscan](https://github.com/weidutech/wDscan) · [ai.kelvinsu.com](https://github.com/weidutech/ai.kelvinsu.com) · LoveCue
+**Also** — [wDscan](https://github.com/weidutech/wDscan) · LoveCue
 
 **CTF** — [0x401](https://0x401.com) 创始人 / 前队长 · XCTF-WMCTF 一等 · 国赛 CTF 总决赛一等 · 强网杯 AI 挑战赛第二
 
