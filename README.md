@@ -10,7 +10,7 @@
   <p>
     <a href="https://linkedin.com/in/kelvin-su-7b30b3232"><img src="https://img.shields.io/badge/LinkedIn-Kelvin_Su-0A66C2?style=flat-square&logo=linkedin" alt="LinkedIn"/></a>
     <a href="https://0x401.com"><img src="https://img.shields.io/badge/0x401-CTF-critical?style=flat-square" alt="0x401"/></a>
-    <a href="https://aikelvinsucom.vercel.app"><img src="https://img.shields.io/badge/Site-ai.kelvinsu.com-58A6FF?style=flat-square" alt="Site"/></a>
+    <a href="http://pentest.kelvinsu.com/"><img src="https://img.shields.io/badge/Site-ai.kelvinsu.com-58A6FF?style=flat-square" alt="Site"/></a>
   </p>
 
 </div>
