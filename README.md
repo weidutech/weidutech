@@ -26,6 +26,8 @@
 
 **CTF** — [0x401](https://0x401.com) 创始人 / 前队长 · XCTF-WMCTF 一等 · 国赛 CTF 总决赛一等 · 强网杯 AI 挑战赛第二
 
+**Community** — 运营安全社区 **超弦维度空间**，欢迎关注公众号加入
+
 <div align="center">
 
   ![Profile views](https://komarev.com/ghpvc/?username=weidutech&style=flat-square&color=58a6ff)
