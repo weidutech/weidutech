@@ -12,9 +12,10 @@
 ---
 
 **Focus / 研究方向**
-- **LLM 安全攻防**：LLM Jailbreak · Prompt Injection · 越狱对齐与防御
-- **Agent 执行层安全**：Agent 动态红队 · 执行层沙箱与工具调用安全 · 攻防自动化
-- **评测与工程落地**：AI 安全攻防评测体系 · 把前沿安全研究转化为高质量工程落地
+- **AI 红队自动化平台**：多形态 Agent 动态渗透 · 攻防自动化 · 自动化脆弱性挖掘与利用
+- **Agent 智能体安全中心**：执行层沙箱与隔离 · 工具调用与权限管控 · 运行时行为监控与安全护栏 (Guardrails)
+- **AI 紫军 (Purple Teaming)**：攻防双向联动 · 自动化闭环加固 · 威胁仿真与实战化协同防御
+- **LLM 安全攻防与工程**：LLM Jailbreak · Prompt Injection · 攻防评测体系与前沿安全工程落地
 
 **Projects** — [PI Recon](https://github.com/weidutech/pi-recon) · LoveCue
 
