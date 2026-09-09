@@ -7,21 +7,16 @@
     LLM / Agent 安全 · 攻防自动化 · 安全工程落地
   </p>
 
-  <p>
-    <a href="https://0x401.com"><img src="https://img.shields.io/badge/0x401-CTF-critical?style=flat-square" alt="0x401"/></a>
-  </p>
-
 </div>
 
 ---
 
-**Focus** — LLM jailbreak · Agent 执行层安全 · 攻防评测体系 · 把研究落成工程
+**Focus / 研究方向**
+- **LLM 安全攻防**：LLM Jailbreak · Prompt Injection · 越狱对齐与防御
+- **Agent 执行层安全**：Agent 动态红队 · 执行层沙箱与工具调用安全 · 攻防自动化
+- **评测与工程落地**：AI 安全攻防评测体系 · 把前沿安全研究转化为高质量工程落地
 
-**Selected work** — 自研 [AgentAegis](https://github.com/weidutech/agentaegis)（多形态 Agent 动态红队）· *VulSolver* / *RASP Plus* 相关议题与专利方向
-
-**Also** — [PI Recon](https://github.com/weidutech/pi-recon) · LoveCue
-
-**CTF** — [0x401](https://0x401.com) · XCTF-WMCTF 一等 · 国赛 CTF 总决赛一等 · 强网杯 AI 挑战赛第二
+**Projects** — [PI Recon](https://github.com/weidutech/pi-recon) · LoveCue
 
 **Community** — 运营安全社区 [**超弦维度空间**](https://mp.weixin.qq.com/s/a6Q9jAxDNbOHzgpDNcsRjQ)，专注最新 AI 网络安全技术落地，欢迎关注公众号加入
 
