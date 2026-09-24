@@ -19,7 +19,7 @@
 
 **Projects** — [PI Recon](https://github.com/weidutech/pi-recon) · LoveCue
 
-**Community** — 运营安全社区 [**超弦维度空间**](https://mp.weixin.qq.com/s/a6Q9jAxDNbOHzgpDNcsRjQ)，专注最新 AI 网络安全技术落地，欢迎关注公众号加入
+**Community** — 运营安全社区，专注最新 AI 网络安全技术落地，欢迎关注加入
 
 <div align="center">
 
