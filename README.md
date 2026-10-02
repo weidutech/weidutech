@@ -17,9 +17,9 @@
 - **AI 紫军 (Purple Teaming)**：攻防双向联动 · 自动化闭环加固 · 威胁仿真与实战化协同防御
 - **LLM 安全攻防与工程**：LLM Jailbreak · Prompt Injection · 攻防评测体系与前沿安全工程落地
 
-**Projects** — [PI Recon](https://github.com/weidutech/pi-recon) · LoveCue
+**Projects** — [PI Recon](https://github.com/weidutech/pi-recon) ·
 
-**Community** — 运营安全社区，专注最新 AI 网络安全技术落地，欢迎关注加入
+**Community** — 运营安全社区，专注最新 AI 网络安全技术落地，欢迎关注加入 https://supradim.com/
 
 <div align="center">
 
